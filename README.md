@@ -6,9 +6,9 @@ Microverse pathwright final project which consists of a site similar to Facebook
 
 ### Prerequisites
 
-Ruby: 2.6.5
-Rails: 5.2.4
-Postgres: >=9.5
+- Ruby: 2.6.5
+- Rails: 5.2.4
+- Postgres: >=9.5
 
 
 ## Live Version
