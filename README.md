@@ -47,7 +47,7 @@ The Model is working on top of the following resources:
 - Linux
 - VScode
 - postgresql
--Ruby
+- Ruby
 
 
 ## 🤝 Contributing
